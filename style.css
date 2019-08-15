@@ -67,3 +67,30 @@ h2{
     margin-left: 70px;
     text-align: center;
 }
+.colortext{
+    color: #2c5d70;
+}
+.headline{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    text-align: center;
+}
+.contactheadline{
+    margin-top: 10px;
+    text-align: center;
+    font-family:  Myriad-set-pro-thin;
+    letter-spacing: .5px;
+}
+.started{
+    text-align: center;
+    color:black;
+    padding-top: 20px;
+    margin-left: 40px;      
+   
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.aftersub{
+    margin-top: 30px;
+}
