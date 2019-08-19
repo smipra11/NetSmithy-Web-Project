@@ -17,10 +17,13 @@
     font-weight: bold;
     size:50px;
     margin-left: 300px;
-    margin-right: 100px;
+    margin-right: 200px;
 }
 .nav-link{
     margin-right: 30px;
+}
+.nav-item{
+    margin-right: 100px;
 }
 
 .image{
@@ -32,7 +35,7 @@
   width:100%;
   background-size: cover;
   opacity: 1.5;
- 
+ margin-bottom: 50px;
 
 }
 h3{
@@ -93,4 +96,46 @@ h2{
 }
 .aftersub{
     margin-top: 30px;
+}
+
+.formcontent{
+    display:block;
+    margin-left: 100px;
+    margin-top: 10px;
+    width:100%;
+    
+    padding:20px;
+    border: 3px solid lightgray;
+    border-radius: 10px;
+}
+.form-title{
+    background-color:  #2c5d70;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+footer{
+    background-color: #2c5d70;
+    width:100%;
+    margin-top: 40px;
+    color: white; 
+}
+.whatwedo{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.special{
+    color: #2c5d70;
+    font-weight: bold;
+}
+.info{
+    margin-bottom: 20px;
+}
+.text-uppercase{
+    margin-top: 20px;
+   
+    
+}
+#footercontainer{
+    width:70%
 }
